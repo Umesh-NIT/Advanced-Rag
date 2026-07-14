@@ -1,4 +1,52 @@
 # Enterprise Agentic RAG
+# 🚀 Enterprise Agentic RAG
+
+> A production-grade Enterprise Retrieval-Augmented Generation (RAG) system built with **LangGraph**, **NeMo Guardrails**, **Portkey LLM Gateway**, **RAGAS**, **Google Cloud Platform**, and **Terraform**.
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agentic-orange)
+![GCP](https://img.shields.io/badge/Google%20Cloud-Cloud%20Run-blue)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+---
+
+## 🌟 Overview
+
+Enterprise Agentic RAG is a scalable Retrieval-Augmented Generation platform designed for production deployments.
+
+The system combines:
+
+- 🧠 LangGraph Agentic Workflows
+- 🛡️ NeMo Guardrails
+- 🔀 Portkey LLM Gateway
+- 📚 Qdrant Vector Database
+- ⚡ Redis Semantic Cache
+- 💾 PostgreSQL Persistent Memory
+- 📄 Google Document AI
+- ☁️ Google Cloud Platform
+- 📊 RAGAS Evaluation Framework
+- 🏗️ Terraform Infrastructure
+
+The architecture is fully containerized into independent microservices running on Google Cloud Run with automated document ingestion, semantic search, enterprise guardrails, persistent memory, and evaluation pipelines.
+
+---
+
+# Features
+
+- ✅ Agentic Multi-Step Reasoning
+- ✅ Enterprise Guardrails
+- ✅ Semantic Caching
+- ✅ Persistent Conversation Memory
+- ✅ FlashRank Re-ranking
+- ✅ Event-Driven Document Ingestion
+- ✅ Google Cloud Deployment
+- ✅ RAGAS Evaluation Pipeline
+- ✅ Terraform Infrastructure as Code
+- ✅ Cloud Run Microservices
+
+---
 
 A production-grade RAG system built with **LangGraph**, **NeMo Guardrails**, **Portkey LLM Gateway**, **RAGAS Evals**, and **Google Cloud Platform**. Deployed as four independent microservices on Cloud Run, managed entirely with Terraform.
 
@@ -297,5 +345,6 @@ Outputs: `backend_url`, `ui_url`, `evals_url`, `ingestion_url`
 ---
 
 *Built for High-Scale Enterprise Document Intelligence.*
-#   e n t e r p r i s e - r a g - w i t h - g u a r d r a i l s - g a t e w a y s - e v a l s - o f  
+#   e n t e r p r i s e - r a g - w i t h - g u a r d r a i l s - g a t e w a y s - e v a l s - o f 
+ 
  
